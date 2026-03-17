@@ -1,0 +1,3 @@
+=== Shared Lab File ===
+This file is accessed by all lab users.
+
